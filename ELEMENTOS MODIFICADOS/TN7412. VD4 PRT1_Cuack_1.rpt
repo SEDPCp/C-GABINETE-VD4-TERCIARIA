@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : TN7412. VD4 PRT1_Cuack_1
+Recibiendo I.D. de producto de sistema: TN7412. VD4 PRT1_Cuack_1
+Nombre de archivo                    : C:\SEDPC\Metal Mecanica\SolidWorks 2018\Dana\GABINETE VD4 SUBESTACIÓN TERCIARIA\IGES\TN7412. VD4 PRT1_Cuack_1.IGS
+Enviando sistema               : SolidWorks 2018
+Versión de preprocesador         : SolidWorks 2018
+Fecha de creación del archivo           : 190103.083404
+Fecha de creación del modelo          : 190103.083404
+Unidades                        : MM
+Escala espacial del modelo            : 1
+Autor                       : SEDPC
+Organización                 : 
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:              12
+  Número de dígitos significativos más alto:                     13
+  Número de dígitos significativos promedio:                10.0612
+  Distancia máxima hasta el origen:                          2175.97
+  Distancia mínima hasta el origen:                                0
+  Número de dígitos significativos efectivo:                   13
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+100  Arc                                            254       254
+102  Composite curve                                270       270
+110  Line                                           370       370
+120  Surface of revolution                           59        59
+124  Transformation matrix                          232       232
+126  Rational B-spline curve                        532       532
+128  Rational B-spline surface                       56        56
+142  Curve on a parametric surface                  135       135
+144  Trimmed parametric surface                     115       115
+314  Color definition                                 1         1
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas3
+Operaciones de superficie0
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: jueves, enero 03, 2019 14:51:07
+Hora de finalización: jueves, enero 03, 2019 14:51:09
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 02 secs

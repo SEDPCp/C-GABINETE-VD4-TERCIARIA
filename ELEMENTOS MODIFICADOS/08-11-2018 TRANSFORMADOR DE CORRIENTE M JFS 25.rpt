@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : 08-11-2018 TRANSFORMADOR DE CORRIENTE M JFS 25
+Recibiendo I.D. de producto de sistema: 08-11-2018 TRANSFORMADOR DE CORRIENTE M JFS 25
+Nombre de archivo                    : C:\SEDPC\Metal Mecanica\SolidWorks 2018\Dana\GABINETE VD4 SUBESTACIÓN TERCIARIA\IGES\08-11-2018 TRANSFORMADOR DE CORRIENTE M JFS 25.IGS
+Enviando sistema               : SolidWorks 2018
+Versión de preprocesador         : SolidWorks 2018
+Fecha de creación del archivo           : 190103.121448
+Fecha de creación del modelo          : 190103.121448
+Unidades                        : MM
+Escala espacial del modelo            : 1
+Autor                       : SEDPC
+Organización                 : 
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:               3
+  Número de dígitos significativos más alto:                     12
+  Número de dígitos significativos promedio:                6.74274
+  Distancia máxima hasta el origen:                          1517.61
+  Distancia mínima hasta el origen:                          1.71848
+  Número de dígitos significativos efectivo:               11.999
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+100  Arc                                             96        96
+102  Composite curve                                542       542
+110  Line                                           850       850
+120  Surface of revolution                           24        24
+124  Transformation matrix                           96        96
+126  Rational B-spline curve                       1658      1658
+128  Rational B-spline surface                      215       215
+142  Curve on a parametric surface                  271       271
+144  Trimmed parametric surface                     239       239
+314  Color definition                                 1         1
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas1
+Operaciones de superficie0
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: jueves, enero 03, 2019 17:08:05
+Hora de finalización: jueves, enero 03, 2019 17:08:07
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 02 secs

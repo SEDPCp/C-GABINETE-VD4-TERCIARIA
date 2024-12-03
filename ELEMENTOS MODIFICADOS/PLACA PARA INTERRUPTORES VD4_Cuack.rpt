@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : PLACA PARA INTERRUPTORES VD4_Cuack
+Recibiendo I.D. de producto de sistema: PLACA PARA INTERRUPTORES VD4_Cuack
+Nombre de archivo                    : C:\SEDPC\Metal Mecanica\SolidWorks 2018\Dana\GABINETE VD4 SUBESTACIÓN TERCIARIA\IGES\PLACA PARA INTERRUPTORES VD4_Cuack.IGS
+Enviando sistema               : SolidWorks 2018
+Versión de preprocesador         : SolidWorks 2018
+Fecha de creación del archivo           : 190103.083435
+Fecha de creación del modelo          : 190103.083435
+Unidades                        : MM
+Escala espacial del modelo            : 1
+Autor                       : SEDPC
+Organización                 : 
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:               3
+  Número de dígitos significativos más alto:                      4
+  Número de dígitos significativos promedio:                 2.7574
+  Distancia máxima hasta el origen:                          1302.99
+  Distancia mínima hasta el origen:                                0
+  Número de dígitos significativos efectivo:                    4
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+100  Arc                                             40        40
+102  Composite curve                                 64        64
+110  Line                                            88        88
+120  Surface of revolution                           10        10
+124  Transformation matrix                           30        30
+126  Rational B-spline curve                        108       108
+128  Rational B-spline surface                       11        11
+142  Curve on a parametric surface                   32        32
+144  Trimmed parametric surface                      21        21
+314  Color definition                                 1         1
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas1
+Operaciones de superficie0
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: jueves, enero 03, 2019 14:51:06
+Hora de finalización: jueves, enero 03, 2019 14:51:06
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 00 secs

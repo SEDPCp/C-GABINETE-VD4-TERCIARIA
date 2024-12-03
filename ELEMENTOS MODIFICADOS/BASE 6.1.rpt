@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - Informe de estado del procesador de IGES
+*****************************************************************
+=================================================================
+Información general
+=================================================================
+Enviando I.D. de producto de sistema  : BASE 6.1
+Recibiendo I.D. de producto de sistema: BASE 6.1
+Nombre de archivo                    : C:\SEDPC\Metal Mecanica\SolidWorks 2018\Dana\GABINETE VD4 SUBESTACIÓN TERCIARIA\IGES\BASE 6.1.IGS
+Enviando sistema               : SolidWorks 2018
+Versión de preprocesador         : SolidWorks 2018
+Fecha de creación del archivo           : 190103.123700
+Fecha de creación del modelo          : 190103.123700
+Unidades                        : MM
+Escala espacial del modelo            : 1
+Autor                       : SEDPC
+Organización                 : 
+
+
+=================================================================
+Información de procesamiento de entidades
+=================================================================
+
+
+=================================================================
+Análisis de precisión del archivo de IGES:
+=================================================================
+  Número de dígitos significativos más frecuente:               4
+  Número de dígitos significativos más alto:                     12
+  Número de dígitos significativos promedio:                4.48699
+  Distancia máxima hasta el origen:                          1388.28
+  Distancia mínima hasta el origen:                          130.039
+  Número de dígitos significativos efectivo:              11.9184
+
+
+=================================================================
+Resumen de entidades
+=================================================================
+-----------------------------------------------------------------
+Nombre de tipo                                         Número convertido
+---- ----                                         ----- ---------
+100  Arc                                            192       192
+102  Composite curve                                352       352
+110  Line                                           512       512
+120  Surface of revolution                           80        80
+124  Transformation matrix                          192       192
+126  Rational B-spline curve                        800       800
+128  Rational B-spline surface                       40        40
+142  Curve on a parametric surface                  176       176
+144  Trimmed parametric surface                     120       120
+314  Color definition                                 1         1
+_________________________________________________________________
+
+
+=================================================================
+Resumen de resultados
+=================================================================
+Tipo de operación de SolidWorks                Número
+-----------------------                -----
+Operaciones sólidas4
+Operaciones de superficie0
+Operaciones de curvas/croquis0
+--------------------------------------------
+Hora de comienzo: jueves, enero 03, 2019 14:51:01
+Hora de finalización: jueves, enero 03, 2019 14:51:02
+Tiempo de procesamiento: 0 days, 00 hours, 00 mins, 01 secs
